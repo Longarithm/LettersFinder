@@ -1,9 +1,5 @@
-﻿Hi ,
-
-thanks, good code! 
-
-but ya ne uweren, chto ya wse ponjal. Mozhno poprosit'
-Was dopisat' sledujushie funkcii ? 
+﻿// Hi, thanks, good code! 
+// Could you please also add the following functions?
 
 void CalculateHashes(int M,N; array? Hash_at_MxN ) { // this gives array[-,-] of Hashas of MxN rectangles 
         for (int n = 1; n <= image->length - N; n) {
