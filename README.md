@@ -1,3 +1,3 @@
 # LettersFinder
 
-Old craft for extracting Latin letters from BMP images.
+Old craft written in 2013 for extracting Latin letters from BMP images.
